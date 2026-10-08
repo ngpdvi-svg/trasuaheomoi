@@ -6,7 +6,7 @@ from datetime import datetime
 # CẤU HÌNH TRANG & CƠ SỞ DỮ LIỆU SẢN PHẨM
 # ---------------------------------------------------------
 st.set_page_config(
-   page_title="Hệ Thống Tính Tiền Trà Sữa",
+   page_title="Đào Ngọc Phương Vy",
    page_icon="🧋",
    layout="wide"
 )
